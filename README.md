@@ -4,7 +4,7 @@
 
 ![alt text](https://api-personal-website.000webhostapp.com/images/projects/camp-travel-thumb.webp)
 
-I am learning the art of slicing website designs from 10am Studio. I recently sliced a travel information website design named "Camp Travel" using Next.js 13 and Tailwind CSS. This slicing process involves converting visual designs into functional HTML, CSS, and JavaScript code suitable for web usage. It has provided me with insights into component structures, layout settings, and responsive designs on websites.
+I am learning the art of slicing website designs from [10am Studio](https://10amstudio.com/). I recently sliced a travel information website design named "Camp Travel" using Next.js 13 and Tailwind CSS. This slicing process involves converting visual designs into functional HTML, CSS, and JavaScript code suitable for web usage. It has provided me with insights into component structures, layout settings, and responsive designs on websites.
 
 This project is an open source project, you can preview the code and clone this project. You can also contribute to make this project better.
 
